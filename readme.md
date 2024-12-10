@@ -75,6 +75,9 @@ Centralized Logging: The syslog server in Tokyo aggregates logs from all regions
 Scalable Design: ALBs and ASGs dynamically handle application traffic and compute requirements.
 Reusable Modules: Modularized infrastructure simplifies configuration management and promotes reusability.
 
+![image](https://github.com/user-attachments/assets/90458c1a-a58f-4f10-bcc6-a020c1d3e060)
+
+
 FILE STRUCTURE
 ├── 01-providers.tf             # Defines AWS providers and aliases
 ├── 02-main.tf                  # Core module configuration
